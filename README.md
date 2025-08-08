@@ -20,8 +20,13 @@
     **AI-Driven Automation** – blending GenAI with event-driven architectures for intelligent process automation
     **Ethics & Responsible AI** – bias mitigation, explainability, and compliance in AI solutions
   
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on projects that combine Generative AI, intelligent agents, and scalable architectures to deliver impactful solutions.
+- 📫 How to reach me
+
+    [![Email](https://img.shields.io/badge/Email-gaurav071%40gmail.com-red?style=flat&logo=gmail)](mailto:gaurav071@gmail.com)  
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaurav%20Pandey-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaurav-pandey-1060a77a/)  
+    [![GitHub](https://img.shields.io/badge/GitHub-gaurav--devxp-black?style=flat&logo=github)](https://github.com/gaurav-devxp)  
+
 
 <!---
 gaurav-devxp/gaurav-devxp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
