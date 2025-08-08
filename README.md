@@ -10,7 +10,16 @@
      **Global collaboration** – delivering solutions with distributed teams across EMEA, APAC, and North America  
 
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
+
+    **Generative AI** – prompt engineering, fine-tuning LLMs, and building domain-specific AI solutions  
+    **AI Agents & Orchestration** – LangChain, OpenAI Assistants API, and autonomous multi-agent systems  
+    **RAG (Retrieval-Augmented Generation)** – integrating vector databases and knowledge graphs for context-aware responses  
+    **Conversational AI** – building context-aware chatbots with memory, multi-turn conversations, and tool integration  
+    **Function Calling & Tool-Use** – enabling LLMs to trigger APIs, databases, and workflows dynamically  
+    **AI-Driven Automation** – blending GenAI with event-driven architectures for intelligent process automation
+    **Ethics & Responsible AI** – bias mitigation, explainability, and compliance in AI solutions
+  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
